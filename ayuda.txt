@@ -109,3 +109,5 @@ http://bvs.sld.cu/revistas/aci/vol14_1_06/aci02106.htm
 
 
 =======================
+
+se agregan lienas adicionales al documento plano de prueba para verificar la facilidad de la herramienta
